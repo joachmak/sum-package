@@ -1,0 +1,15 @@
+{
+  "name": "@joachmak/sum",
+  "version": "1.0.0",
+  "description": "En enkel funksjon som summerer to tall",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
+
+
+
+
+
+
+
