@@ -1,6 +1,6 @@
 {
   "name": "@joachmak/sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "En enkel funksjon som summerer to tall",
   "main": "index.js",
   "license": "MIT",
@@ -8,10 +8,16 @@
     "type": "git",
     "url": "git+https://github.com/joachmak/sum-package.git"
   },
+  "peerDependencies": {
+    "lodash": "4.18.1"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
 }
+
+
+
 
 
 
