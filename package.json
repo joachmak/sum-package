@@ -4,7 +4,13 @@
   "description": "En enkel funksjon som summerer to tall",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joachmak/sum-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
 
 
